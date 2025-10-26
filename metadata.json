@@ -1,0 +1,5 @@
+{
+  "name": "English Test Extractor & Solver",
+  "description": "An application to scan images of an English test, extract the questions, translate them to Vietnamese, provide detailed solutions, and allow saving the results as a Word document.",
+  "requestFramePermissions": []
+}
